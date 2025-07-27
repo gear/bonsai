@@ -10,3 +10,6 @@
 .idea
 .vscode
 .envrc
+
+# Ignore UV environment snapshot
+uv.lock
